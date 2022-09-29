@@ -699,8 +699,8 @@ em {
     max-width: 60% !important ;
 }
     .page-4 {
-        margin-top: 20% !important;
-        min-width: 600px !important;
+        margin-top: 0% !important;
+        min-width: 550px !important;
     }
 
     .piggy__text {
