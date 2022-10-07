@@ -1173,7 +1173,8 @@ em {
 @media all and (max-width:959px) {
     .page-3 {
         display: block;
-        padding-bottom: 400px; 
+        padding-bottom: 250px;
+        margin-top:15px;
     }
 
     .page-4 {
