@@ -578,7 +578,7 @@ em {
 
 }
 
-@media all and (min-height:700px ) and (max-width:1000px) {
+@media all and (min-height:700px) and (max-width:1000px) {
 
     .page-4, .page-3 {
         margin-top: 0% !important;
@@ -1173,12 +1173,12 @@ em {
 @media all and (max-width:959px) {
     .page-3 {
         display: block;
-        padding-bottom: 250px;
-        padding-top:15px;
+         padding-bottom: 250px; 
+         margin-top: 15px !important;
     }
 
     .page-4 {
-         padding-bottom: 250px; 
+        padding-bottom: 250px; 
         min-width: 800px;
     }
 
