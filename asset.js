@@ -1255,7 +1255,7 @@ function C_res(hh) {
 
         Ne = parseInt(Ne);
 
-        document.getElementById("slide2-cont").textContent = f(Math.round(Ne - (parseInt(g(P)) + parseInt(g(W)) + parseInt(g(A)) + parseInt(g(K)))) /
+        document.getElementById("slide2-cont").textContent = (Math.round(Ne - (parseInt(g(P)) + parseInt(g(W)) + parseInt(g(A)) + parseInt(g(K)))) /
         (12 * parseInt(g(time))));
 
         let profit = document.getElementById("out-profit").textContent;
